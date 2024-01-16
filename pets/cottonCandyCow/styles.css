@@ -1,0 +1,14 @@
+*{
+    font-family:  comic sans MS, cursive;
+    color:  hsl(330, 63%, 62%)
+}
+
+h3{
+    justify-content: center;
+}
+
+.pinkBG{
+    color: hsl(100, 100%, 100%);
+    background-color: hsl(330, 63%, 62%);
+    padding: 1%;
+}

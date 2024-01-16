@@ -1,0 +1,10 @@
+*{
+    font-family:  comic sans MS, cursive;
+    color:  hsl(22, 65%, 43%);
+}
+
+.BG{
+    background-color: hsl(22, 65%, 43%);
+    color: white;
+}
+

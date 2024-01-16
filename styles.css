@@ -1,0 +1,63 @@
+*{
+    font-family:  comic sans MS, cursive;
+}
+
+.banner{
+    display: flex;
+    margin: 0px;
+    justify-content: center;
+    width: 100%
+}
+
+.header{
+    margin: 0px;
+    background: hsl(240, 60%, 49%);
+    width: 100%;
+    height: auto;
+    background-position: center;
+    color: white;
+    text-align: center;
+}
+
+.middle {
+    display: flex;
+    background: white;
+    border: 4px solid hsl(240, 60%, 49%);
+    flex: 1;
+}
+
+.one {
+    background: hsl(240, 60%, 49%);
+    color: white;
+    border: 3px solid hsl(240, 60%, 49%);   
+    flex: 1;
+}
+
+.two{
+    color: hsl(240, 60%, 49%);
+    border: 3px solid white;
+    flex: 2;
+}
+
+.pets {
+    display: flex;
+    background: hsl(240, 60%, 49%);
+    justify-content: center;
+    border: 4px solid hsl(240, 60%, 49%);
+    flex: 1;
+}
+
+.heading2{
+    display: flex;
+    background: hsl(240, 60%, 49%);
+    justify-content: center;
+    border: 4px solid hsl(240, 60%, 49%);
+    margin: 0px;
+    flex: 1;
+    color: white
+}
+
+.img {
+    border: 4px solid hsl(240, 60%, 49%);
+    flex: 1;
+}
