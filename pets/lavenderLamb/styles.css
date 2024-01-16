@@ -3,19 +3,11 @@
     color:  hsl(289, 52%, 65%)
 }
 
-.body{
-    background-color: hsl(330, 63%, 62%);
-}
-
-.purpleBG{
+.BG{
     display: flex;
     justify-content: center;
-    color: hsl(100, 100%, 100%);
     background-color: hsl(289, 52%, 65%);
+    color: white;
     padding: 1%;
 }
 
-.whiteBG {
-    color: hsl(330, 63%, 62%);
-    background-color: hsl(100, 100%, 100%);
-}
