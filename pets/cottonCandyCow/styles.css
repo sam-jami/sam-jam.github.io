@@ -3,11 +3,9 @@
     color:  hsl(330, 63%, 62%)
 }
 
-h3{
-    justify-content: center;
-}
-
 .pinkBG{
+    display: flex;
+    justify-content: center;
     color: hsl(100, 100%, 100%);
     background-color: hsl(330, 63%, 62%);
     padding: 1%;
